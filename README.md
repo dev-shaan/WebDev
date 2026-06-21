@@ -1,25 +1,34 @@
-# WebDev
+# Flexbox Pricing Table
 
-this is the project while learning CSS.
-It’s meant as a beginner project to practice basic web development concepts.
-Learning to make web page responsive.
-implementing 
+A simple responsive pricing table project built with HTML and CSS. It is designed to practice Flexbox layout, responsive design, and clean UI styling.
 
-## 🚀 Features
+## Features
 
-- flexbox implement
-- grid
-- media querry
-  
+- Three pricing cards: Basic, Standard, and Premium
+- Responsive layout that stacks on smaller screens
+- Smooth animated gradient background
+- Rounded, modern card and button styling
+- Simple quote section above the pricing table
 
-## 🛠️ Installation
+## Tech Used
 
-1. Download or clone this repository.
-2. Open the folder of the project you want to view.
-3. Double‑click `index.html` (or open it in any browser).
+- HTML5
+- CSS3
+- Flexbox
+- Media queries
 
+## What This Project Teaches
 
-   
-## 📜 License
+- How to build a pricing table layout with Flexbox
+- How to make a page responsive for phone screens
+- How to use gradients, shadows, and border radius for a modern look
+- How to style buttons and cards with simple CSS
 
-Feel free to use or modify this project for learning purposes.
+## How to Run
+
+1. Open `index.html` in your browser.
+2. Resize the browser window to see the responsive behavior.
+
+## Notes
+
+This project is kept intentionally simple so it is easy to read and practice basic front-end coding skills.
