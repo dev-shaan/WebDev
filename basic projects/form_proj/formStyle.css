@@ -1,0 +1,61 @@
+body{
+    padding: 0;
+    margin: 0;
+    text-transform: capitalize;
+    /* background-image: radial-gradient(circle, rgb(161, 181, 246), blue); */
+    background-image: linear-gradient(to right,rgba(222, 124, 68, 0.852),rgb(218, 223, 140), rgba(237, 137, 79, 0.852));
+    
+}
+h1{
+    text-align: center;
+    font-family:cursive;
+    font-size: 3rem;
+    text-shadow: 1px 1px rgb(0, 0, 0);
+    text-decoration:underline rgba(222, 124, 68, 0.852) 10px;
+    
+}
+
+
+.container{
+    display: flex;
+    align-items: center;
+    height: 40vh;
+    justify-content: center;
+    margin-bottom: 6px;
+    
+    /* border: 6px solid rgb(136, 127, 165); */
+    /* flex-direction: column; */
+}
+.container div{
+    margin: 10px;
+    font-size: 2rem;
+}
+.subs{
+    background-image: linear-gradient(to right,rgb(245, 249, 171),rgba(188, 106, 59, 0.852),rgb(218, 223, 140));
+    display: table; /* Changed from inline-block to allow margin: auto */
+    margin: 0 auto;
+    position: relative;
+    
+    font-size: 2.5rem;
+    border: none ;
+    border-radius: 10%;
+    box-shadow: 2px 1px yellow;
+    text-align: center;
+}
+.conf{
+    display: block;
+    float: right;
+    margin-right: 10px;
+    background-color: antiquewhite;
+}
+.endForm{
+    font-size: 2rem;
+    margin: 2rem;
+    padding: 1rem;
+    text-align: center;
+
+}
+
+.sub{
+    margin-top: 4rem;
+}
