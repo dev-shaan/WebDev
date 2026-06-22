@@ -1,4 +1,4 @@
-# WebDev Portfolio 🚀
+# WebDev (advaced HTML + CSS) projects 🚀
 
 A collection of frontend development projects and experiments built with HTML, CSS, JavaScript, and Bootstrap. This repository serves as a portfolio demonstrating core web development skills, including responsive design, layout techniques (Flexbox), and component implementation.
 
